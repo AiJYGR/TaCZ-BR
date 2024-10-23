@@ -9,7 +9,7 @@ There is a **basic BR system**.
 
 That includes Looting, Backpack, Launching, and so on.
 
-Please enjoy!
+Plz enjoy!
 
 
 If you have any suggestions or you meet any bugs, please let me know.
